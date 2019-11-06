@@ -1,0 +1,4 @@
+kubernetes-setup/join-command
+.env
+authorized_key.pub
+.vagrant
